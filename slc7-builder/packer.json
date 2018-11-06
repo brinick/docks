@@ -1,5 +1,5 @@
 {
-  "_comment": "CentOS 7 builder with CCTools",
+  "_comment": "CentOS 7 builder including CCTools",
   "variables": {
     "DOCKER_HUB_REPO": "alisw",
     "BFG_VERSION": "1.12.13",
